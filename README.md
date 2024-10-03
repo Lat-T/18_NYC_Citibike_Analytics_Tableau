@@ -70,7 +70,7 @@ The code is available as follows:
 ### **Step 2: Extract all files & run the code**
 * Download this entire project from GitHub
 * Part 1: Run [this code](02-Analysis/02_Pre_Tableau.ipynb)
-* Part 2: Download this [Tableau](https://public.tableau.com/profile/latyr#!/vizhome/TableauHomework_15950296476620/StartEndStationsAnalysis?publish=yes) project & open it from your local tableau instance.
+* Part 2: Download this [Tableau](https://public.tableau.com/app/profile/latyr/viz/TableauHomework_15950296476620/StartEndStationsAnalysis) project & open it from your local tableau instance.
 
 ## **7. User Acceptance Testing**
 
